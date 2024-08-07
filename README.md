@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naznah!
-- 🌱 I will be learning Python, R, and Javascript as part of my MSc in Artificial Intelligence.
+- 💻 I will be learning Python, R, and Javascript as part of my MSc in Artificial Intelligence.
 - 🤖 I'm particularly keen to deepen my understanding of GenAI, ML, and NLP.
 - 📝 As an avid writer, linguaphile, and pianist, LLMs and diffusion models are of special interest.
 
